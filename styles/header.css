@@ -79,6 +79,7 @@ voltar no html e criar uma class__imagem para todos*/
 
 .opções {
     display: none;
+    text-decoration: none;
 }
 
 .container__texto {
@@ -177,5 +178,6 @@ voltar no html e criar uma class__imagem para todos*/
     .container__titulo {
     display: block;
 }
+
 
 }
